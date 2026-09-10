@@ -1,0 +1,7 @@
+# Binarios compilados
+secuencial/histograma_secuencial
+paralelo/histograma_paralelo
+*.o
+*.exe
+
+
